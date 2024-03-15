@@ -1,0 +1,45 @@
+* {
+    font-family: 'Oswald', sans-serif;
+  
+    color: black;
+}
+.header {
+    text-align: center;
+    
+}
+.me {
+    border: 3px solid black;
+    border-radius: 80px 80px 80px 80px;
+    
+}
+#about {
+    width: 30px;
+    height: 100%;
+
+}
+#contact {
+    width: 25px;
+    margin-left:auto 3px;
+ margin-bottom: 1px;
+}
+#photos {
+    width: 100%;
+    text-align: center;
+}
+#fblogo {
+    height: 40px;
+    
+}
+#redditlogo {
+    width: 40px;
+   
+}
+#twit {
+    width: 45px;
+
+}
+#findme {
+margin-left: 25%;
+margin-right: 25%;
+text-align: center;
+}
